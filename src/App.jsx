@@ -1,10 +1,11 @@
+import Background from "./UI/Background"
 
 function App() {
 
 
   return (
     <>
-      <h1 className="text-3xl font-bold underline">hello</h1>
+      <Background/>
     </>
   )
 }
